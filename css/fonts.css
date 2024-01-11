@@ -1,0 +1,27 @@
+/* Open Sans */
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/Open_Sans/OpenSans-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+    font-weight: 400;
+}
+
+/* OpenSans-CondBold */
+
+@font-face {
+    font-family: "OpenSans-Condensed";
+    src: url(../fonts/open-sans-condensed/OpenSans-CondBold.ttf);
+    font-weight: 700;
+}
